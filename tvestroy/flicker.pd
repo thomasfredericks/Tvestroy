@@ -1,0 +1,29 @@
+#N canvas 551 133 450 300 10;
+#X msg 51 182 color \$1 \$1 \$1;
+#X obj 52 92 spigot;
+#X obj 52 148 tgl 15 0 empty empty empty 17 7 0 10 -262144 -1 -1 0
+1;
+#X msg 9 93 0;
+#X obj 126 48 loadbang;
+#X obj 54 36 gemhead;
+#X obj 57 68 bang;
+#X obj 133 88 tgl 15 0 empty empty empty 17 7 0 10 -262144 -1 -1 0
+8;
+#X obj 133 107 sel 0;
+#X msg 134 125 0;
+#X obj 105 119 tgl 15 0 empty empty empty 17 7 0 10 -262144 -1 -1 1
+1;
+#X obj 64 248 outlet;
+#X obj 131 17 inlet;
+#X connect 0 0 11 0;
+#X connect 1 0 2 0;
+#X connect 2 0 0 0;
+#X connect 3 0 0 0;
+#X connect 4 0 10 0;
+#X connect 5 0 6 0;
+#X connect 6 0 1 0;
+#X connect 7 0 1 1;
+#X connect 7 0 8 0;
+#X connect 8 0 9 0;
+#X connect 9 0 2 0;
+#X connect 12 0 7 0;

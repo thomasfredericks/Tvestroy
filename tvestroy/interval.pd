@@ -1,0 +1,14 @@
+#N canvas 313 286 450 300 10;
+#X obj 125 211 outlet;
+#X obj 130 104 value TV4interval;
+#X obj 133 9 inlet;
+#X obj 138 38 b;
+#X obj 142 154 * 1;
+#X obj 291 85 loadbang;
+#X obj 291 115 dollarg;
+#X connect 1 0 4 0;
+#X connect 2 0 3 0;
+#X connect 3 0 1 0;
+#X connect 4 0 0 0;
+#X connect 5 0 6 0;
+#X connect 6 0 4 1;

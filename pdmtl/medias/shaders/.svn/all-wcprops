@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/pdmtl/!svn/ver/1105/trunk/pdmtl/medias/shaders
+END
+deforme_texture.frag
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/pdmtl/!svn/ver/622/trunk/pdmtl/medias/shaders/deforme_texture.frag
+END
+twirl.frag
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/pdmtl/!svn/ver/1105/trunk/pdmtl/medias/shaders/twirl.frag
+END
+deforme_texture.vert
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/pdmtl/!svn/ver/622/trunk/pdmtl/medias/shaders/deforme_texture.vert
+END
+twirl.vert
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/pdmtl/!svn/ver/1105/trunk/pdmtl/medias/shaders/twirl.vert
+END
+fractal.frag
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/pdmtl/!svn/ver/622/trunk/pdmtl/medias/shaders/fractal.frag
+END
+fractal.vert
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/pdmtl/!svn/ver/622/trunk/pdmtl/medias/shaders/fractal.vert
+END

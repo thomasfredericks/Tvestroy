@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/pdmtl/!svn/ver/1582/trunk/pdmtl/include
+END
+sampler.sample.dump-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/pdmtl/!svn/ver/1346/trunk/pdmtl/include/sampler.sample.dump-help.pd
+END
+param.get.pd
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/pdmtl/!svn/ver/1569/trunk/pdmtl/include/param.get.pd
+END
+param.dump.format-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/pdmtl/!svn/ver/1389/trunk/pdmtl/include/param.dump.format-help.pd
+END
+param.dump.groups.pd
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/pdmtl/!svn/ver/1569/trunk/pdmtl/include/param.dump.groups.pd
+END
+param.fill.pd
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/pdmtl/!svn/ver/1569/trunk/pdmtl/include/param.fill.pd
+END
+sampler.play.guts~.pd
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/pdmtl/!svn/ver/1569/trunk/pdmtl/include/sampler.play.guts~.pd
+END
+freesoundpy.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/pdmtl/!svn/ver/1582/trunk/pdmtl/include/freesoundpy.py
+END
+sampler.instrument.set-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/pdmtl/!svn/ver/1346/trunk/pdmtl/include/sampler.instrument.set-help.pd
+END
+param.dump-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/pdmtl/!svn/ver/1389/trunk/pdmtl/include/param.dump-help.pd
+END
+sample.load_file_in_table.pd
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/pdmtl/!svn/ver/1569/trunk/pdmtl/include/sample.load_file_in_table.pd
+END
+sampler.sample.dump.file-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/pdmtl/!svn/ver/1346/trunk/pdmtl/include/sampler.sample.dump.file-help.pd
+END
+sample.multi.player~.pd
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/pdmtl/!svn/ver/1137/trunk/pdmtl/include/sample.multi.player~.pd
+END
+freesoundpd.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/pdmtl/!svn/ver/1582/trunk/pdmtl/include/freesoundpd.py
+END
+sampler.instrument.set.pd
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/pdmtl/!svn/ver/1569/trunk/pdmtl/include/sampler.instrument.set.pd
+END
+sampler.instrument.dump-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/pdmtl/!svn/ver/1346/trunk/pdmtl/include/sampler.instrument.dump-help.pd
+END
+param.dump.pd
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/pdmtl/!svn/ver/1569/trunk/pdmtl/include/param.dump.pd
+END
+param.get.format.pd
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/pdmtl/!svn/ver/1569/trunk/pdmtl/include/param.get.format.pd
+END
+process.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/pdmtl/!svn/ver/1309/trunk/pdmtl/include/process.pyc
+END
+sample.looper.player~.pd
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/pdmtl/!svn/ver/622/trunk/pdmtl/include/sample.looper.player~.pd
+END
+mix.throws.thrower~.pd
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/pdmtl/!svn/ver/622/trunk/pdmtl/include/mix.throws.thrower~.pd
+END
+input.piano_.keys
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/pdmtl/!svn/ver/622/trunk/pdmtl/include/input.piano_.keys
+END
+param.fill-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/pdmtl/!svn/ver/1389/trunk/pdmtl/include/param.fill-help.pd
+END
+sampler.instrument.dump.pd
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/pdmtl/!svn/ver/1349/trunk/pdmtl/include/sampler.instrument.dump.pd
+END
+sample.bank.generator.pd
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/pdmtl/!svn/ver/1569/trunk/pdmtl/include/sample.bank.generator.pd
+END
+sample.particular.grain~.pd
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/pdmtl/!svn/ver/1569/trunk/pdmtl/include/sample.particular.grain~.pd
+END
+sampler.sample.pd
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/pdmtl/!svn/ver/1569/trunk/pdmtl/include/sampler.sample.pd
+END
+sampler.sample.dump.pd
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/pdmtl/!svn/ver/1346/trunk/pdmtl/include/sampler.sample.dump.pd
+END
+search.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/pdmtl/!svn/ver/1452/trunk/pdmtl/include/search.py
+END
+param.dump.format.pd
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/pdmtl/!svn/ver/1569/trunk/pdmtl/include/param.dump.format.pd
+END
+param.get.format-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/pdmtl/!svn/ver/1389/trunk/pdmtl/include/param.get.format-help.pd
+END
+sampler.instrument-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/pdmtl/!svn/ver/1346/trunk/pdmtl/include/sampler.instrument-help.pd
+END
+process.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/pdmtl/!svn/ver/1309/trunk/pdmtl/include/process.py
+END
+param.get-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/pdmtl/!svn/ver/1389/trunk/pdmtl/include/param.get-help.pd
+END
+sampler.sample.dump.file.pd
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/pdmtl/!svn/ver/1346/trunk/pdmtl/include/sampler.sample.dump.file.pd
+END
+param.dump.groups-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/pdmtl/!svn/ver/1389/trunk/pdmtl/include/param.dump.groups-help.pd
+END
+sampler.sample-help.pd
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/pdmtl/!svn/ver/1346/trunk/pdmtl/include/sampler.sample-help.pd
+END
+sampler.instrument.pd
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/pdmtl/!svn/ver/1569/trunk/pdmtl/include/sampler.instrument.pd
+END
+sample.looper.enveloppe~.pd
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/pdmtl/!svn/ver/622/trunk/pdmtl/include/sample.looper.enveloppe~.pd
+END

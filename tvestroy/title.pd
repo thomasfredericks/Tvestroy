@@ -1,0 +1,8 @@
+#N canvas 314 265 450 300 10;
+#X obj 59 24 inlet;
+#X obj 59 118 spigot;
+#X obj 205 7 inlet;
+#X obj 60 161 ../pdmtl/gems.text @text TVESTROY @font pixel.ttf;
+#X connect 0 0 1 0;
+#X connect 1 0 3 0;
+#X connect 2 0 1 1;
